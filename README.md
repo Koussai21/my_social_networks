@@ -31,7 +31,7 @@ npm start
 npm run dev
 ```
 
-## ⚙️ Configuration
+## Configuration
 
 Le fichier `.env` contient les variables d'environnement nécessaires :
 
